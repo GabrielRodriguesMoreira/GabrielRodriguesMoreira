@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/Ih3tQe9.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="GifImg" >
+<img src="https://theradiantitservices.com/wp-content/uploads/2021/02/Programing.png" min-width="400px" max-width="400px" width="400px" align="right" alt="GifImg" >
+
 
 <h1>Bem-vindo! </h1>
 <p align="left"> 
@@ -14,6 +15,7 @@
 <img src='https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png' height="50px" />
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' height="50px" />
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png' height="50px" />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/640px-C_Programming_Language.svg.png' height="50px" />
 </div>
 
 <h3 align="left">
