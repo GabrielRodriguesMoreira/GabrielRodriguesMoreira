@@ -19,7 +19,7 @@
 </div>
 
 <h3 align="left">
-  📧 Alguns links caso queira entrar em contato comigo. 📧
+  📧 Links para contato. 📧
 </h3>
 
 <p align="left">
