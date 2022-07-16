@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Ih3tQe9.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/Ih3tQe9.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="GifImg" >
 
 <h1>Bem-vindo! </h1>
 <p align="left"> 
