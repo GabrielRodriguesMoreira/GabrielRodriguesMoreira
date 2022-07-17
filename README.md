@@ -30,4 +30,4 @@
   <img height="30px" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/feed/" /></a>
 
   <a href="https://wa.me/+558537873084" alt="WhatsApp">
-  <img height="30px" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5585937873084P"/></a>
+  <img height="30px" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5585987373084"/></a>
