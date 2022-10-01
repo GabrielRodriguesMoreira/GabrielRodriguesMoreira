@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/80790674/193430998-c2ee01b7-87d1-4ec1-a491-1b12176ce9d0.png" min-width="400px" max-width="400px" width="400px" align="right" alt="GifImg" >
+<img src="http://intecone.com.br/wp-content/uploads/2020/08/Gerenciamento-de-Permiss%C3%B5es-IntecOne.png" min-width="400px" max-width="400px" width="400px" align="right" alt="GifImg" >
 
 
 <h1>Bem-vindo! </h1>
