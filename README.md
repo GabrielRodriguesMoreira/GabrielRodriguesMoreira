@@ -3,7 +3,7 @@
 
 <h1>Bem-vindo! </h1>
 <p align="left"> 
-  sou um estudante de programação front-end formado técnico em informática pelo IFCE em 2018 e atualmente cursando Ciência da computação. Agora busco conseguir minha primeira vaga de emprego, por favor dê uma olhada em alguns dos meus projetos.
+  sou um estudante de programação front-end formado técnico em informática pelo IFCE em 2021 e atualmente cursando Ciência da computação. Agora busco conseguir minha primeira vaga de emprego, por favor dê uma olhada em alguns dos meus projetos.
 </p>
 
 <h2 align="left" >
